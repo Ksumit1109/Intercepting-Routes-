@@ -17,7 +17,7 @@ const RootLayout: FC<RootLayoutProps> = ({ children, modal }) => {
   return (
     <html>
       <body>
-        <Header />
+        {/* <Header /> */}
 
         <main className="container p-4">{children}</main>
 
