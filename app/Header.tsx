@@ -31,7 +31,7 @@ const Header: FC = () => {
       </p>
 
       <a
-        href="https://github.com/akhila-ariyachandra/nextjs-app-route-interception"
+        href="https://github.com/Ksumit1109/Intercepting-Routes-"
         target="_blank"
         rel="noopener noreferrer"
         className="flex max-w-fit flex-row items-center gap-2 rounded bg-[#171515] px-2 py-1 text-white"
